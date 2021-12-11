@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "..\TaskManag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "..\Tasks\Tasks.csproj", "{D09BC656-CEDE-4447-BD13-0A7B5F2D4904}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_12", "11_12", "{76D59853-EE69-4F67-91EB-242DAE221681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B964E4F-CEB2-44DE-B40A-84D8852E5EBE} = {76D59853-EE69-4F67-91EB-242DAE221681}
+		{4A76BB7F-62BE-4472-B109-372761F53263} = {76D59853-EE69-4F67-91EB-242DAE221681}
+		{6DAC79FF-BF60-4C45-99D7-259F2F619264} = {76D59853-EE69-4F67-91EB-242DAE221681}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A46096E-8229-4519-9FC7-DC0250EEE924}
