@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "..\TaskManag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "..\Tasks\Tasks.csproj", "{D09BC656-CEDE-4447-BD13-0A7B5F2D4904}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_12", "11_12", "{76D59853-EE69-4F67-91EB-242DAE221681}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "labs_11_12", "labs_11_12", "{76D59853-EE69-4F67-91EB-242DAE221681}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
